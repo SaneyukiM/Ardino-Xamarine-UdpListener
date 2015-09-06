@@ -1,5 +1,6 @@
 # Ardino-Xamarine-UdpListener
-スマホでUDPパケット受信。 (Arudino等で作れる簡易な電文向け。)
+スマホでUDPパケットを受信。  
+Arudino等で作れる簡易な電文の受信に向け。
 
 
 ### 機能
@@ -7,7 +8,6 @@
 ![ClipToClip](http://saneyukim.github.io/images/CIMG3202.png)
 
 青いクリップと黒いクリップの間の電圧がスマホで見れます！
-
 
 ### コンパイル
 
